@@ -6,3 +6,4 @@
 1) Englih_to_French_Translator
 2) Fake_News_Detection
 3) Topic_Modelling_Business
+4) Twitter_Sentiment_Analysis
