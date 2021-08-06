@@ -10,6 +10,7 @@
 5) Named_Entity_Recoginition
 6) Audio_Classification
 7) Insincere_Questions_Quora
-8) Yellow_brick_text_data_analysis
-9) Resume_Selection
-10) Super_Hero_Name_Generator
+8) Insincere_Text_Classification_using_Bert
+9) Yellow_brick_text_data_analysis
+10) Resume_Selection
+11) Super_Hero_Name_Generator
