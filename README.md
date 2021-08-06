@@ -10,3 +10,4 @@
 5) Named_Entity_Recoginition
 6) Audio_Classification
 7) Insincere_Questions_Quora
+8) Yellow_brick_text_data_analysis
