@@ -1,6 +1,9 @@
 # Projects in the Natural Langauge Processing Domain
 
 
+## Technologies:
+
+
 ### Projects:
 
 1) Englih_to_French_Translator
