@@ -33,3 +33,4 @@
 9) Yellow_brick_text_data_analysis
 10) Resume_Selection
 11) Super_Hero_Name_Generator
+12) Name_Gender_Classifier_App
