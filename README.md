@@ -21,6 +21,11 @@
 </div>
 
 ## Platforms
+<div style="display:flex; margin: auto;">
+  
+
+
+</div>
 
 ### Projects
 
