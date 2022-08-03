@@ -22,7 +22,7 @@
 
 ## Platforms
 <div style="display:flex; margin: auto;">
-  
+   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 
 
 </div>
